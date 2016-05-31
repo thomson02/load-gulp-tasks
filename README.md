@@ -1,3 +1,5 @@
+Removed support for argv and reliance on package.json 
+
 # Load gulp tasks
 > Load gulp tasks using glob matching
 
